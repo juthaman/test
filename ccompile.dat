@@ -2,6 +2,7 @@
 node {
 bat '''
 C:
+cd \\
 cd Users\\Uthaman\\source\\repos\\DemoApplication\\DemoApplication
 C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\csc.exe /t:exe /out:bin/DemoApplication.exe Program.cs
 '''

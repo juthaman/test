@@ -6,7 +6,7 @@ bat '''
 C:
 cd \\
 cd Users\\Uthaman\\source\\repos\\DemoApplication\\DemoApplication
-C:\\Users\\Uthaman\\Downloads\\roslyn-master\\roslyn-master\\csc.exe /t:exe /out:bin/DemoApplication.exe Program.cs
+C:\\Program Files\\Unity\Editor\\Data\\Tools\\Roslyn\\csc.exe /t:exe /out:bin/DemoApplication.exe Program.cs
 '''
 }
 }
